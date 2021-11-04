@@ -19,10 +19,11 @@ The visual system performs remarkably well to perceive depth order of surfaces w
 - MATLAB
 - Image Processing Toolbox
 - Statistics and Machine Learning Toolbox
-- MATLAB Coder
+- MATLAB Coder (%note: if you do not have a coder, the Matlab code still works but runs slower)
 
 ### Setup
-To be able to run the code, please run the setup function first in MATLAB console
+To be able to run the code, please run the setup function first in MATLAB console (%note: if you do not have a coder, the Matlab code still works but runs slower)
+
 ```
 setup
 ```
